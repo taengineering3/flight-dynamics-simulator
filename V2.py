@@ -96,3 +96,4 @@ go.Figure.update_layout(fig, title='3D Flight Trajectory', scene=dict(
     zaxis_title='Z Position (m)'
 ))
 fig.show()
+
